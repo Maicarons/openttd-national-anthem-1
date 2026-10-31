@@ -35,6 +35,10 @@ ezy_2    = bt.mid
 ezy_3    = bw.mid
 ezy_4    = bz.mid
 ezy_5    = ca.mid
+ezy_6    = ad.mid
+ezy_7    = ae.mid
+ezy_8    = af.mid
+ezy_9    = ag.mid
 
 [md5s]
 ad.mid   = 7348f8e8aea12e4937d1552ab56cdffb
@@ -93,6 +97,10 @@ ezy_2    = Bhutan
 ezy_3    = Botswana
 ezy_4    = Belize
 ezy_5    = Canada
+ezy_6    = Andorra
+ezy_7    = United Arab Emirates
+ezy_8    = Afghanistan
+ezy_9    = Antigua and Barbuda
 
 [origin]
 default      = National anthems of the world — OpenTTD Base Music, Volume 1 of 6.
