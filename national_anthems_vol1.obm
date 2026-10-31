@@ -1,0 +1,98 @@
+; National anthems of the world — Volume 1 of 6 (OpenTTD Base Music)
+; Auto-generated; slot assignment is deterministic from ISO codes.
+
+[metadata]
+name              = national_anthems_vol1
+shortname         = ANT1
+version           = 1
+description       = National anthems of the world — Volume 1 of 6 (OpenTTD Base Music set).
+
+[files]
+theme    = ad.mid
+old_0    = ae.mid
+old_1    = af.mid
+old_2    = ag.mid
+old_3    = al.mid
+old_4    = am.mid
+old_5    = ao.mid
+old_6    = ar.mid
+old_7    = at.mid
+old_8    = au.mid
+old_9    = az.mid
+new_0    = bb.mid
+new_1    = bd.mid
+new_2    = be.mid
+new_3    = bf.mid
+new_4    = bg.mid
+new_5    = bh.mid
+new_6    = bi.mid
+new_7    = bj.mid
+new_8    = bn.mid
+new_9    = bo.mid
+ezy_0    = br.mid
+ezy_1    = bs.mid
+ezy_2    = bt.mid
+ezy_3    = bw.mid
+ezy_4    = bz.mid
+ezy_5    = ca.mid
+
+[md5s]
+ad.mid   = 7348f8e8aea12e4937d1552ab56cdffb
+ae.mid   = 8b1ec3203d6f4cd10e0f44bfaa691d11
+af.mid   = ba1184c2b849b18958c0e2fdd52b6519
+ag.mid   = 5c0b9fcc1a17fd7867b9255db993c9c9
+al.mid   = 83c2600960533eb19d0938ba71847af9
+am.mid   = a18eaf89b34fa076f8e720adb69c795e
+ao.mid   = cfd6484f1e363905b7ef555f1ae45b50
+ar.mid   = aa94a62898b9566313cd90db04e8bea4
+at.mid   = 7827a92036b0fc012b950ddc90edd9d6
+au.mid   = e7b8544ad240420a49404c2c774b930d
+az.mid   = abd87d148003d2d64c10089a88b24cdb
+bb.mid   = 2a6672afad2115742163c6b665416d32
+bd.mid   = 26a3d08157a518e9ac5325c8952cc91b
+be.mid   = 7622514aca118050f1e4d1e5271f8c1b
+bf.mid   = c109ba23955659acce3f55709e7f0792
+bg.mid   = 789c28ba50047874c5a35967e558103e
+bh.mid   = 87a0c605ba854ce9d35dbee0a00e57d2
+bi.mid   = 6d8bbeac343845f40ad640aea0688afc
+bj.mid   = 2c331511346b8ab399c3b704e5ba1ecd
+bn.mid   = aac6f4fda5dadfc7ffc4116593f82f68
+bo.mid   = 5294fbdb49feb725120eb3d853b01b15
+br.mid   = 78eed35f7c0bc3943c86a6f289a45489
+bs.mid   = f1361438fe4bbf656a1891bb8c468142
+bt.mid   = 3078ece559e59d638c975e5a57e2727c
+bw.mid   = b7c7a5f1dac62e6bca32e8b89c3c9f36
+bz.mid   = 7d5bb8249ed9fcacf559674e4ad6b281
+ca.mid   = 633290aaf62803dd8ca0992cbe0c9677
+
+[names]
+theme    = Andorra
+old_0    = United Arab Emirates
+old_1    = Afghanistan
+old_2    = Antigua and Barbuda
+old_3    = Albania
+old_4    = Armenia
+old_5    = Angola
+old_6    = Argentina
+old_7    = Austria
+old_8    = Australia
+old_9    = Azerbaijan
+new_0    = Barbados
+new_1    = Bangladesh
+new_2    = Belgium
+new_3    = Burkina Faso
+new_4    = Bulgaria
+new_5    = Bahrain
+new_6    = Burundi
+new_7    = Benin
+new_8    = Brunei
+new_9    = Bolivia
+ezy_0    = Brazil
+ezy_1    = Bahamas
+ezy_2    = Bhutan
+ezy_3    = Botswana
+ezy_4    = Belize
+ezy_5    = Canada
+
+[origin]
+default      = National anthems of the world — OpenTTD Base Music, Volume 1 of 6.
